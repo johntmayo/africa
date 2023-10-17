@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Africa Map 2.0" />
+              <option name="title_text" value="Africa Map 3.0" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -75,6 +75,7 @@
           </option>
           <option name="settings" value="true" />
           <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -1578,7 +1579,7 @@
         <slidelink slideid="_player.5vLKDFKjT2w" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5vLKDFKjT2w.60JEWSscK60" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5vLKDFKjT2w.6GAVFOmHHWi" displaytext="Fill-in-the-Blank" expand="false" type="slide" />
+            <slidelink slideid="_player.5vLKDFKjT2w.6ATuDmaYdyH" displaytext="Hard mode" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
